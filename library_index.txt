@@ -1,0 +1,102 @@
+books/
+books\humanities/
+books\misc/
+books\science/
+books\science\engineering/
+    A Brief History of Everything Wireless.pdf
+    Antenna Theory Analysis and Design, 3rd Edition (Constantine A. Balanis) (Z-Library).pdf
+    CMOS VLSI Design A Circuits and Systems Perspective, 4th Edition (2011).pdf
+    CMOS_Analog_Circuit_Design_Allen.pdf
+    CMOS_Circuit_Design__Layout__and_Simulation__3rd_Edition.pdf
+    Design_of_Analog_CMOS_Integrated_Circuit.pdf
+    Fast Techniques for Integrated Circuit Design (Mikael Sahrling) (Z-Library).pdf
+    Linear Algebra and Its Applications, 4th Edition (David C. Lay) (Z-Library).pdf
+    Microchip Fabrication (Peter Van Zant) (Z-Library).pdf
+    OPAMP Handbook_AnalogDevice.pdf
+    Oscillator Design and Computer Simulation (Randall W. Rhea) (Z-Library).pdf
+    Randall W. Rhea - Oscillator Design and Computer Simulation-Noble Publishing Corporation (2008).pdf
+    Sarah Harris, David Harris - Digital Design and Computer Architecture_ ARM Edition-Morgan Kaufmann (2015).pdf
+    Systematic Design of Analog CMOS Circuits Using Pre-Computed Lookup Tables (Paul Jespers) (Z-Library).pdf
+    Willy Sansen - Analog Design Essentials (The Springer International Series in Engineering and Computer Science)-Springer (2006).pdf
+    digital_design_principles_and_practices_third_edition-1.pdf
+    msp430f5529.pdf
+    msp430f5529UsersGuide.pdf
+    the-design-of-low-noise-oscillators-2003.pdf
+    tms320f2812.pdf
+books\science\mathematics/
+    Advanced Dynamics Rigid Body, Multibody, and Aerospace Applications (Reza N. Jazar) (Z-Library).pdf
+    An_Introduction_to_Tensors_and_Group_The.pdf
+    Approximation Methods in Science and Engineering (Reza N. Jazar) (Z-Library).pdf
+    Computational Physics with Python Eric Ayars.pdf
+    Handbook of exact solutions for ordinary diff eqns.pdf
+    Introduction to General Relativity, Black Holes and Cosmology (Yvonne Choquet-Bruhat) (Z-Library).pdf
+    Linear Algebra Done Right (Sheldon Axler) (Z-Library).pdf
+    Linear Algebra and Its Applications (Peter D. Lax) (Z-Library).pdf
+    Math4phys.pdf
+    Mathematical Methods for Physicists (7th Ed)(gnv64) - PDF Room.pdf
+    Physics from Symmetry-schwichtenberg.pdf
+    REAL_AND_COMPLEX_ANALYSIS.pdf
+    Reference1-Probability, Statistics, and Random Processes for Electrical Engineering 3rd Edition (Alberto L. Garcia).pdf
+    Reference2-Introduction to Probability Models 9th Edition (Sheldon M. Ross).pdf
+    Sadri Hassani - Mathematical Physics_ A Modern Introduction to Its Foundations-Springer (1999).pdf
+    Schaum's Outlines - Probability, Random Variables And Random Processes.pdf
+    THOMAS_CALCULUS_14_EDITION_Massachusetts.pdf
+    Tensor Calculus for Physics.pdf
+    Textbook1-Probability and Statistics 4th Edition（Morris H. Degroot）.pdf
+    Textbook2-Probability and Statistics for Engineers and Scientists 9th Edition (Ronald E. Walpole ).pdf
+    The First Adventures on Differential Geometry  A Friendly Guide for Beginners (Lee Hwee Kuan) (Z-Library).pdf
+books\science\physics/
+    A First Course in General Relativity (Bernard Schutz) (Z-Library).pdf
+    A course in lens design (Velzel, C. H. F) (Z-Library).pdf
+    Fundamentals of Modern VLSI Devices (Yuan Taur, Tak Ning) (Z-Library).pdf
+    Introduction to Electrodynamics.pdf
+    Introduction_to_Quantum_Mechanics_3nd_Ed.pdf
+    Orbital Mechanics for Engineering Students, Second Edition (Aerospace Engineering) (Howard Curtis) (Z-Library).pdf
+    SemiConductorNeamen.pdf
+    SemiConductorSze.pdf
+    The Oxford Solid State Basics (Steven H. Simon) (Z-Library).pdf
+    The_Feynman_Lectures_on_Physics_VOL2.pdf
+    The_Feynman_Lectures_on_Physics_VOL3.pdf
+    电动力学讲义.pdf
+papers/
+papers\datasheet/
+    2SC2458-Toshiba Semiconductor.pdf
+    AD835.pdf
+    MPU-6000-Register-Map1.pdf
+    MPU-6000.PDF
+    SGM3207.pdf
+    ad9226.pdf
+    ad9834.pdf
+    hydrogen_ao_derivation.pdf
+    lm27762.pdf
+    ne555.pdf
+    opa2227.pdf
+    opa690.pdf
+    opa837.pdf
+    ref1112.pdf
+    slyt157.pdf
+    tlv3501.pdf
+    tms320f2812GuideLine.pdf
+papers\physicsPapers/
+    Redhead-Nov01-.pdf
+    The Discovery of the Point Contact transistor hoddeson1981.pdf
+    fowler1928.pdf
+papers\RFICpapers/
+    7.3_A_224Gb_s_3pJ_b_40dB_Insertion_Loss_Transceiver_in_3nm_FinFET_CMOS.pdf
+    8.7_A_112Gb_s_ADC-DSP-Based_PAM-4_Transceiver_for_Long-Reach_Applications_with_gt40dB_Channel_Loss_in_7nm_FinFET.pdf
+    A_1.41pJ_b_224Gb_s_PAM-4_SerDes_Receiver_with_31dB_Loss_Compensation.pdf
+    A_2.29-pJ_b_112-Gb_s_Wireline_Transceiver_With_RX_Four-Tap_FFE_for_Medium-Reach_Applications_in_28-nm_CMOS.pdf
+    A_56-Gbps_PAM-4_Wireline_Receiver_With_4-Tap_Direct_DFE_Employing_Dynamic_CML_Comparators_in_65_nm_CMOS.pdf
+    BRFall17DFE.pdf
+    BR_SSCM_1_2022.pdf
+    BR_SSCM_4_2021.pdf
+    Deriving relativistic momentum and energy.pdf
+    Li 等 - 2021 - A 56-Gbs PAM4 Receiver Analog Front-End With Fixe.pdf
+    OPAMP through the ages Tom Lee.pdf
+    Oscillator Phase Noise.pdf
+    WA3.4.pdf
+    hajimiri1999_Design Issues in CMOS Differential LC OScillators.pdf
+    inverter based CTLE1.pdf
+    piccinni2017.pdf
+    sheikholeslami2019.pdf
+    sheikholeslami2020.pdf
