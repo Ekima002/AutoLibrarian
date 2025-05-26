@@ -10,7 +10,7 @@ Manually create the folder layout, the following is an example:
 
 
 ``` 
-.
+AutoLibrarian
 ├── unsorted              # Place new or unorganized PDF files here
 ├── sorted                # Organized files will be moved here
 │   ├── science
