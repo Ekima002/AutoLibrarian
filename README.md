@@ -4,7 +4,7 @@ AutoLibrarian is a small Python utility that helps automatically organize PDF fi
 
 ## Usage
 
-### Step 1: Create the storage structure
+### Step 1: Define the storage structure
 
 Manually create the folder layout, the following is an example:
 
