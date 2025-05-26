@@ -14,50 +14,34 @@ pip install nltk PyMuPDF
 
 ## Setup
 
-1. Create the following folder structure:
-
-.
-├── unsorted            # Folder where downloaded PDFs are placed
-├── sorted              # Folder where categorized PDFs will be moved
-│   ├── science
-│   │   ├── engineering
-│   │   └── physics
-│   ├── humanities
-│   └── sics
-
-
-2. The script will download NLTK stopwords locally if not present. This avoids writing to global directories.
-
-3. Run the classification script:
-
+1. Create the storage structure as you wanted
+2. Manually categorize some books into the leaf folders
+3. Use keyword\_generator.py to generate the keywords
 ```
-
-python autolibrarian.py
-```
-
-This will:
-
-- Read each PDF file in the `unsorted` folder
-- Extract text from the introduction or preface sections (and optionally index)
-- Match the content to categories based on keyword proportion
-- Move the file to the most relevant folder inside `sorted`
-
-## Updating Keywords
-
-To improve classification accuracy, you can run a helper script to extract the top frequent words from already sorted PDFs:
-
-```
-
 python keyword\_generator.py
-
 ```
 
 This script will:
 
 - Analyze PDFs in the `sorted` folder
 - Filter out stopwords
-- Show the top 20 most frequent words for each file
+- Show the top 20 most frequent words for the index or the first and final 20 pages in each file
 - Help you decide which keywords to add to your categories
+5. Move files to be solved into the unsorted folder
+6. Run autolibrarian.py to sort all the files in unsorted folder
+
+```
+python autolibrarian.py
+```
+
+This will:
+
+- Read each PDF file in the `unsorted` folder
+- Extract text from the index (if there is an index in the file) or the first and last 20 pages
+- Match the content to categories based on keyword proportion
+- Move the file to the most relevant folder inside `sorted`
+
+
 
 ## Notes
 
