@@ -1,7 +1,6 @@
 # AutoLibrarian
 
-AutoLibrarian is a small Python utility that helps automatically organize PDF files into categorized folders based on their content.
-
+AutoLibrarian is a lightweight Python utility designed to automatically organize PDF files into categorized folders based on their content. The ultimate goal of this project is to create a fully autonomous system that determines the optimal storage structure and sorts all books without any user input—much like a real librarian. Initially, I started building a version with a graphical user interface, but I later realized that this shifted the project toward a typical library management system, which wasn’t my original intention.
 ## Usage
 
 ### Step 1: Define the storage structure
